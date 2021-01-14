@@ -1,4 +1,4 @@
-package com.oocl.web.sampleWebApp;
+package com.springboot.sampleWebApp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
